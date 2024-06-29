@@ -1,2 +1,2 @@
-# odoo-frontend
-<h1>Frontend for odoo Hackathon</h1>
+# odoo-hackathon
+<h1>odoo Hackathon</h1>
