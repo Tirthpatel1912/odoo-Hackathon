@@ -1,2 +1,2 @@
 # odoo-frontend
-<h1 style="text-align: center">Frontend for odoo Hackathon</h1>
+<h1>Frontend for odoo Hackathon</h1>
